@@ -50,7 +50,7 @@ gem 'bootsnap', require: false
 # gem 'tailwindcss-rails', '~> 2.0'
 
 # User authentication
-# gem 'devise', '~> 4.9'
+gem 'devise'
 # gem 'devise-i18n'
 
 # gem 'pagy', '~> 6.2'
